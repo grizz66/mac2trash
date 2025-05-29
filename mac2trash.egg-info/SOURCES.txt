@@ -1,0 +1,9 @@
+README.md
+setup.py
+mac2trash/__init__.py
+mac2trash/__main__.py
+mac2trash.egg-info/PKG-INFO
+mac2trash.egg-info/SOURCES.txt
+mac2trash.egg-info/dependency_links.txt
+mac2trash.egg-info/entry_points.txt
+mac2trash.egg-info/top_level.txt

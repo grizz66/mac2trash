@@ -1,0 +1,40 @@
+Metadata-Version: 2.4
+Name: mac2trash
+Version: 1.0.0
+Summary: Remove macOS metadata and junk from files and folders.
+Home-page: https://macintrash.org
+Author: Troy Grizzle
+Author-email: griz@macintrash.org
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# mac2trash
+
+**Un-Apple your files.**  
+mac2trash removes `.DS_Store`, `__MACOSX`, and other macOS junk files from directories and zip archives.
+
+## Install
+
+```bash
+pip install .
+```
+
+## Use
+
+```bash
+mac2trash yourfolder/
+mac2trash yourarchive.zip
+```
+
+Because your cross-platform friends don’t want your .DS_Store files.

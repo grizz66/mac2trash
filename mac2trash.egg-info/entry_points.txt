@@ -1,0 +1,2 @@
+[console_scripts]
+mac2trash = mac2trash.__main__:main
