@@ -64,4 +64,7 @@ Pull requests and issues welcome. Unless you're trying to defend `.DS_Store`.
 
 ---
 
+🧑‍💻 Brought to life with a few keystrokes and a lot of snark by [Troy](https://github.com/grizz66),  
+with technical assistance (and fancy icons) from ChatGPT.
+
 © 2025 [macintrash.org](https://macintrash.org)
